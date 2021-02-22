@@ -43,6 +43,12 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 "/h2-console/**"
                 , "/favicon.ico"
                 , "/error"
+                , "/v2/api-docs"
+                , "/configuration/ui"
+                , "/swagger-resources/**"
+                , "/configuration/**"
+                , "/swagger-ui.html"
+                , "/webjars/**"
         );
     }
 
