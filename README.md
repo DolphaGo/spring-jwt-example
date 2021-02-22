@@ -4,11 +4,6 @@
 
 * We can use the JWT in Spring.
 
-* And you can easily use this project.
-
-  because basic things in the structure of the project are already prepared.
-
-
 
 ## Feature
 
